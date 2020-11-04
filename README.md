@@ -18,7 +18,7 @@ $ apt install python
 
 $ apt install git
 
-$ git clone 
+$ git clone https://github.com/MalconMerlyn/HajaxDoS.git
 
 [ Como usar ] - [ How to use ]
 
